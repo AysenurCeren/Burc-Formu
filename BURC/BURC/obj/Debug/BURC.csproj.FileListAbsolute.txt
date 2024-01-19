@@ -1,0 +1,11 @@
+C:\Users\ceren\source\repos\BURC\BURC\obj\Debug\BURC.csproj.AssemblyReference.cache
+C:\Users\ceren\source\repos\BURC\BURC\obj\Debug\BURC.Form1.resources
+C:\Users\ceren\source\repos\BURC\BURC\obj\Debug\BURC.Properties.Resources.resources
+C:\Users\ceren\source\repos\BURC\BURC\obj\Debug\BURC.csproj.GenerateResource.cache
+C:\Users\ceren\source\repos\BURC\BURC\obj\Debug\BURC.csproj.CoreCompileInputs.cache
+C:\Users\ceren\source\repos\BURC\BURC\bin\Debug\BURC.exe.config
+C:\Users\ceren\source\repos\BURC\BURC\bin\Debug\BURC.exe
+C:\Users\ceren\source\repos\BURC\BURC\bin\Debug\BURC.pdb
+C:\Users\ceren\source\repos\BURC\BURC\obj\Debug\BURC.exe
+C:\Users\ceren\source\repos\BURC\BURC\obj\Debug\BURC.pdb
+C:\Users\ceren\source\repos\BURC\BURC\obj\Debug\BURC.Form2.resources
